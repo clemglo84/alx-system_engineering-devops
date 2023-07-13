@@ -1,3 +1,3 @@
 #!/bin/bash
-find . -middepth 1 -type d | wc -l
+find . mindept 1 -type d | wc -l
 
